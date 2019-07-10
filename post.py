@@ -1,6 +1,6 @@
 import requests
 
-url = "https://animal-monitoring-system.firebaseio.com/.json"
+url = "https://animal-monitoring-system.firebaseio.com/.json?auth="
 payload = {"one": "Hello00000 from python auth",
            "two": "Everyon000000000000e from python auth"}
 
